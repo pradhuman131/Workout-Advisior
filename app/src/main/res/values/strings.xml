@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkoutsAdvisor</string>
+    <string name="action_settings">Settings</string>
+    <string name="workout">Your Workout Here</string>
+    
+    <string-array name="workout_type">
+        <item>Chest</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+    </string-array>
+</resources>
